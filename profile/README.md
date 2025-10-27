@@ -1,4 +1,4 @@
-<h1 align="center">Arkemis Labs 🧪</h1>
+<h1 align="center">🧪 Arkemis Labs</h1>
 
 <p align="center">The experimental space of <a href="https://arkemis.it">Arkemis</a> — where ideas, prototypes, and future products come to life.</p>
 
