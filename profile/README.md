@@ -51,7 +51,7 @@ We love collaborating with developers, designers, and researchers who share our 
 Follow our work, share ideas, and join the discussion:
 
 - 🌐 [arkemis.it](https://arkemis.it)  
-- 💬 [Discord Community](https://discord.gg/zAjmZYHXp7)  
+- 💬 [Discord Community](https://arkemis.it/discord)  
 
 ---
 
