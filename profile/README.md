@@ -2,7 +2,7 @@
 
 <p align="center">The experimental space of <a href="https://arkemis.it">Arkemis</a> — where ideas, prototypes, and future products come to life.</p>
 
-<img width="1000" height="913" alt="Arkemis Labs" src="https://github.com/user-attachments/assets/b5ceaf08-049e-4e09-bd40-e8de31f54d9b" />
+<img width="1000" height="320" alt="Arkemis Labs" src="https://github.com/user-attachments/assets/b5ceaf08-049e-4e09-bd40-e8de31f54d9b" />
 
 ---
 
